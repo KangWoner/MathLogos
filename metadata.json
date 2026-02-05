@@ -1,0 +1,7 @@
+{
+  "name": "MathLogos: Suri-Nonsul Expert",
+  "description": "A premium AI consultation app for Korean students preparing for Mathematical Essay (수리논술) university entrance exams. Includes university recommendations, grading analysis, and personalized study strategies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
